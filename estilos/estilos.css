@@ -1,0 +1,21 @@
+.contenedor{
+    font-family: Arial, sans-serif;
+    font-size: 37.5px;
+    background-color: gray;
+    margin: 0 auto;
+    padding: 8px;
+    text-align: center;
+ justify-content: center;
+}
+.cuerpo{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 8px;
+    font-size: 1.92em;
+}
+footer{
+    background-color: lightgray;
+    text-align: center;
+    padding: 8px;
+    position: fixed;
+}
